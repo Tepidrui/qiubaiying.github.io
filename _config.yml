@@ -3,7 +3,7 @@ title: Inputme
 SEOTitle: Inputme
 header-img: img/post-bg-desk.jpg
 email: ruifanliu0@gmail.com
-description: "脑电波徒步空间。"
+description: "脑电波徒步空间"
 keyword: "Blab, Music, Photo "
 url: "http://tepidrui.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,16 +11,13 @@ github_repo: "https://github.com/tepidrui/tepidrui.github.io.git" # you code rep
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "记录裂璺。"
+sidebar-about-description: "记录裂璺"
 sidebar-avatar: /img/      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-# weibo_username:   
-
-
 
 
 
@@ -63,14 +60,6 @@ disqus_username: qiubaiying
 
 
 
-# Analytics settings
-
-
-# Google Analytics
-ga_track_id:         # Format: UA-xxxxxx-xx
-ga_domain: auto
-
-
 
 
 
@@ -86,10 +75,3 @@ service-worker: true
 
 
 
-# Friends
-friends: [
-    {
-        title: "",
-        href: "http://"
-    }, }
-]
