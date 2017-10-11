@@ -1,7 +1,7 @@
 # Site settings
 title: Inputme
 SEOTitle: Inputme
-header-img: img/post-bg-desk.jpg
+header-img: img/home-bg-blue.jpg
 email: ruifanliu0@gmail.com
 description: "脑电波徒步空间"
 keyword: "Blab, Music, Photo "
@@ -12,7 +12,7 @@ github_repo: "https://github.com/tepidrui/tepidrui.github.io.git" # you code rep
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "碳基二足生物。"
-sidebar-avatar:  img/avatar_g.JPG      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar:  img/avatar_g.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
