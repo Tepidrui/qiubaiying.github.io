@@ -11,8 +11,8 @@ github_repo: "https://github.com/tepidrui/tepidrui.github.io.git" # you code rep
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "记录裂璺"
-sidebar-avatar: /img/      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "脑电波徒步空间。"
+sidebar-avatar:  img/avatar-g.JPG      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
