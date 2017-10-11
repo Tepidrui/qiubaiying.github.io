@@ -1,29 +1,25 @@
 # Site settings
-title: BY Blog
-SEOTitle: 柏荧的博客 | BY Blog
+title: Inputme
+SEOTitle: Inputme
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
-description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+email: ruifanliu0@gmail.com
+description: "脑电波徒步空间。"
+keyword: "Blab, Music, Photo "
+url: "http://tepidrui.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/tepidrui/tepidrui.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "记录裂璺。"
+sidebar-avatar: /img/      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+# weibo_username:   
+
 
 
 
@@ -68,11 +64,10 @@ disqus_username: qiubaiying
 
 
 # Analytics settings
-# Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
+
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
+ga_track_id:         # Format: UA-xxxxxx-xx
 ga_domain: auto
 
 
@@ -94,16 +89,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
-    },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
-    },{
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
-    }
+        title: "",
+        href: "http://"
+    }, }
 ]
